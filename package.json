@@ -1,0 +1,21 @@
+{
+  "name": "mid-term-practical",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mid-term practical project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "project"
+  ],
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
