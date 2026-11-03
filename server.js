@@ -1,0 +1,1 @@
+{"message":"Server is running successfully!","port":3000}
